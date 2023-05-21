@@ -1,0 +1,8 @@
+.vscode
+logs/
+__pycache__/
+saved/
+dxy/
+muzhi/
+muzhi2/
+wandb
