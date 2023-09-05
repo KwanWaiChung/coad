@@ -1,10 +1,7 @@
 ## CoAD: Automatic Diagnosis through Symptom and Disease Collaborative Generation
 **Authors**:  Huimin Wang Wai-Chung Kwan, Kam-Fai Wong, Yefeng Zheng  
 
-<!-- ## Citation:
-If you find our paper and resources useful, please kindly cite our paper:
-```bibtex
-``` -->
+Code of our paper: [CoAD: Automatic Diagnosis through Symptom and Disease Collaborative Generation](https://arxiv.org/abs/2307.08290)
 
 ### Environment Setup:
 ```yaml
